@@ -1,6 +1,6 @@
 # Monitoreo-red
 
-Aplicación desarrollada en Java para monitorear una red de manera basica.
+Aplicación desarrollada en Java para el monitoreo basico de una red.
 
 Capturas.
 
